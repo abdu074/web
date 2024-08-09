@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}  
+body{
+    
+} 
+.teachers{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 100vh;
+}
+.pool{
+    text-transform:capitalize;
+    text-align: center;
+}
+.text{
+    width: 160vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60vh;
+}
+.teaching{
+    background-color: white;
+    
+}
+.teaching h3{
+    width: 20vh;
+    
+    text-align: center;
+}
+.teaching p{
+    width: 20vh;
+    
+    text-align: center;
+}
+.teaching .jump{
+    border-top: 1px solid  grey;
+    width: 13vh;
+    text-align: center;
+}
+.key{
+    background-color: white;
+}
+.courses{
+    background-color: white;
+}
+.fun{
+    background-color: white;
+}
